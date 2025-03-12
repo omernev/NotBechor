@@ -1,0 +1,11 @@
+In the directory "People", open the file with your name.
+
+Next to every restaurant, write a score from 1 to 6.
+1 - I will never eat there.
+2 - I don't really want to, but ok if we didn't eat there recently.
+3 - Meh.
+4 - I like eating there.
+5 - I really like eating there.
+6 - This is great, I want to eat there as much as possible.
+
+You can update the file any time you want.
